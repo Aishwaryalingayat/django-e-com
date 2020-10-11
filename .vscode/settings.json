@@ -15,4 +15,5 @@
     "emmet.includeLanguages": {
         "django-html": "html"
     },
+    "python.pythonPath": "env1\\Scripts\\python.exe",
 }
