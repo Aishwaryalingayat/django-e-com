@@ -23,6 +23,7 @@ This project is a fully functional eCommerce website with user and guest checkou
 
 ## Screen Shots.
 
+There is checkout with a logged in user, we can add in the ability for users to checkout as a guest using cookies.
 ![store](https://user-images.githubusercontent.com/66966497/105025226-12517800-5a73-11eb-9ac8-61b538401a9f.png)
 
 
