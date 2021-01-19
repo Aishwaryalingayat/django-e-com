@@ -23,7 +23,24 @@ This project is a fully functional eCommerce website with user and guest checkou
 
 ## Screen Shots.
 
- ![cartttttt](https://user-images.githubusercontent.com/66966497/105024297-eed9fd80-5a71-11eb-8f4a-b4ec6f539729.png)
+![cartttttt](https://user-images.githubusercontent.com/66966497/105024297-eed9fd80-5a71-11eb-8f4a-b4ec6f539729.png
+
+
+
+![store](https://user-images.githubusercontent.com/66966497/105025226-12517800-5a73-11eb-9ac8-61b538401a9f.png)
+
+
+
+![data](https://user-images.githubusercontent.com/66966497/105025189-06fe4c80-5a73-11eb-8912-aaeddd9d1087.png)
+
+
+
+![loginuserpayment](https://user-images.githubusercontent.com/66966497/105025196-08c81000-5a73-11eb-826c-896c42cff5b0.png)
+
+
+
+![newuser](https://user-images.githubusercontent.com/66966497/105025219-1087b480-5a73-11eb-80f6-73c03e9cc963.png)
+
  
  
 
