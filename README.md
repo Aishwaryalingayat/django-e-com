@@ -42,7 +42,7 @@ Payment integration will be handled with PayPal offering the ability to checkout
 ![loginuserpayment](https://user-images.githubusercontent.com/66966497/105025196-08c81000-5a73-11eb-826c-896c42cff5b0.png)
 
 
-
+GuestUser functionality:
 ![newuser](https://user-images.githubusercontent.com/66966497/105026950-28f8ce80-5a75-11eb-9589-9ac5e6d967c8.png)
 
  
