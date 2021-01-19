@@ -41,6 +41,7 @@ This project is a fully functional eCommerce website with user and guest checkou
 
 
 5. GuestUser functionality:
+
 ![newuser](ecommerce/readme_images/newuser.png)
 
 ## creators
