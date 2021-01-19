@@ -14,7 +14,7 @@ This project is a fully functional eCommerce website with user and guest checkou
  ```bash
  pip install -r requirements.txt
  ```
- 3. Setup and activate envoriment.
+ 3. Setup and activate environment.
  4. Run project
  ```bash
  python manage.py migrate
