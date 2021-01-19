@@ -1,5 +1,5 @@
 # E-com
-This is the repo E-Com Project. In the project, I created Django application where users can view Items, add to card and checkout.
+This project is a fully functional eCommerce website with user and guest checkout capabilities. Users have the ability to add multiple products to cart, varying from physical to digital products. Payment integration handle with PayPal offering the ability to check out with a PayPal account and checkout with PayPal debit/credit card.
 
 ## Table of Contents
 
