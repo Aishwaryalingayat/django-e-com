@@ -39,7 +39,7 @@ This project is a fully functional eCommerce website with user and guest checkou
 
 
 
-![newuser](https://user-images.githubusercontent.com/66966497/105025219-1087b480-5a73-11eb-80f6-73c03e9cc963.png)
+![newuser](https://user-images.githubusercontent.com/66966497/105026950-28f8ce80-5a75-11eb-9589-9ac5e6d967c8.png)
 
  
  
