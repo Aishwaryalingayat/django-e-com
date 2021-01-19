@@ -23,7 +23,10 @@ This project is a fully functional eCommerce website with user and guest checkou
 
 ## Screen Shots.
 
- * Updating soon...
+ ![cartttttt](https://user-images.githubusercontent.com/66966497/105024297-eed9fd80-5a71-11eb-8f4a-b4ec6f539729.png)
+ 
+ 
+
 
 ## creators
 
